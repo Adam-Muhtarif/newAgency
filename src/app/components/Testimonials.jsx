@@ -4,7 +4,7 @@ export default function Testimonials() {
     return (
         <div className="mt-8 px-4 md:px-10 lg:px-16 xl:px-40 text-center">
             <h1 className="text-5xl text-orange font-bold">Testimonials</h1>
-            <p className="text-sm w-1/2 mx-auto">
+            <p className="mt-4 text-sm lg:w-1/2 mx-auto">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus,
                 luctus nec ullamcorper mattis, pulvinar dapibus leo.
             </p>

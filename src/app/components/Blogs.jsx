@@ -8,7 +8,7 @@ export default function Blogs() {
                     <h1 className="text-orange text-lg uppercase font-bold">our services</h1>
                     <h2 className="text-3xl font-bold">What we do for your business?</h2>
                 </div>
-                <div className="w-96 mt-4 lg:mt-0">
+                <div className="lg:w-96 mt-4 lg:m-0">
                     Quis autem vel eum iure reprehenderit qui in ea
                     voluptate velit esse quam nihil molestiae consequatur,
                     vel illum qui dolorem eum fugiat quo voluptas nulla pariatur.
