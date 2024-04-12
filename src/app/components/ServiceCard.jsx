@@ -15,7 +15,7 @@ export default function ServiceCard({ image, title, description, className }) {
                 priority
             />
             <h3 className='text-lg font-bold'>{title}</h3>
-            <p className='text-sm text-center'>{description}</p>
+            <p className='text-sm text-center pb-2'>{description}</p>
         </div>
     )
 }
